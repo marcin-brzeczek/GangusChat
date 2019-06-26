@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670151483663",
+    "firebase_url": "https://simple-68e4f.firebaseio.com",
+    "project_id": "simple-68e4f",
+    "storage_bucket": "simple-68e4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670151483663:android:7883aaa4b62bd385",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.android.whysoserious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670151483663-is69f78vtje51lm66188817h0j8a581e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_5ru8i-xeY8ggVwUDgRaARjt1xIJE8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670151483663-is69f78vtje51lm66188817h0j8a581e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
